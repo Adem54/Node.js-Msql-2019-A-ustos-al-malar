@@ -1,1 +1,1 @@
-# Node.js-Msql-2019-A-ustos-al-malar
+# Node.js-Msql-2019-August-Studies
